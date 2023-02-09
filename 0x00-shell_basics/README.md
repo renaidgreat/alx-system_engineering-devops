@@ -1,1 +1,1 @@
-cd root
+ls -a
